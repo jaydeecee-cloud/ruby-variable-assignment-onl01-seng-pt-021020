@@ -1,2 +1,2 @@
-myString = '7*7'
+myString = 'My name is Joe'
 greeting = myString
