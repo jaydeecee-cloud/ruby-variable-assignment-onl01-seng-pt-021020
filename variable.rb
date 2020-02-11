@@ -1,1 +1,0 @@
-puts 'greeting' = "Hello World"
